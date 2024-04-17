@@ -18,4 +18,4 @@ samples, guidance on mobile development, and a full API reference.
 - [Version Flutter SDK](3.13.5)
 - [Email](3.13.5)
 - [APK](https://drive.google.com/file/d/1ebDCGXk8dtSilEPYG2BKrey1Phwd3pr3/view?usp=sharing)
-- [Video Screenshot]()
+- [Video Screenshot](https://drive.google.com/file/d/1WVWhCu52oNy2OmiwTzL6YnDkGIsPT745/view?usp=sharing)
