@@ -1,0 +1,33 @@
+{
+  "passValidation": "Please enter at least 6 letters or numbers",
+  "passRequiredValidation":"Please enter password",
+  "mailValidation": "Please enter a valid email",
+  "phoneValidation": "Please enter a valid mobile phone",
+  "confirmValidation": "Please enter the password identical",
+  "fillField": "This field is required",
+  "operationFaild": "The operation was not successful",
+  "progressFaild": " Error processing data",
+  "intenetWeaness": "Internet signal is weak!",
+  "serverError": "there is a problem with the server, please check with the application administration",
+  "checkInternet": "An error occurred connecting to the Internet, please try again",
+  "errorExeptionNoconnection": "no connection",
+  "errorExeption_NointernetDesc": "An error occurred connecting to the Internet, please try again",
+  "errorExeption_NotContain": "There is no content",
+  "errorExeption_notContainDesc": "Sorry, there is no content available to display",
+  "visitorText": "This feature cannot be used, please register",
+  "check_internet": "Please check internet",
+  "expetion": "We are sorry that an error occurred, please review the application administration",
+  "contact_us": "Contact us",
+  "cancele":"Dismiss",
+  "PhotoLibrary":"Gallary",
+  "Camera":"Camera",
+  "error":"Some Thing went wrong",
+  "bad_request": "An error occurred, please check the application administration",
+  "unauthorized":" Please re-register again to confirm the validity of the data",
+  "notFound": "Data not found",
+
+  "--------------------------------------- Add App Strings Here -------------------------------------------":"",
+
+  "name": "Name",
+  "continueAsA": "Continue as a"
+}
